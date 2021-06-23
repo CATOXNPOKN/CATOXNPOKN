@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CATOXNPOKN.  私はCATOXNPOKNといいます。 Меня завут CATOXNPOKN. Мене звати CATOXNPOKN. 我叫CATOXNPOKN。 
-- 👀 I’m interested in CFD (Computational Fluid Dynamics) on OpenFOAM.
+- 👀 I’m interested in CFD (Computational Fluid Dynamics) on OpenFOAM. 
+-     As an Hobby, I sometimes write Ruby script for RPG maker VXACE.
 - 🌱 I’m currently learning C++, Ruby,  Русский язык, Українська мова.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dvegitary<at>gmail.com
