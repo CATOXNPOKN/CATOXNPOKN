@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CATOXNPOKN.
-- 👀 I’m interested in CFD (Computational Fluid Dynamics) with OpenFOAM.
-- 🌱 I’m currently learning C++, Ruby.
+- 👋 Hi, I’m @CATOXNPOKN.私はCATOXNPOKNといいます。 Меня завут CATOXNPOKN. Мене звати XNPOKN. 我叫CATOXNPOKN。 
+- 👀 I’m interested in CFD (Computational Fluid Dynamics) on OpenFOAM.
+- 🌱 I’m currently learning C++, Ruby,  Русский язык, Українська мова.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... dvegitary<at>gmail.com
 
 <!---
 CATOXNPOKN/CATOXNPOKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
