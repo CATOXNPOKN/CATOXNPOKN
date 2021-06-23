@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CATOXNPOKN.私はCATOXNPOKNといいます。 Меня завут CATOXNPOKN. Мене звати XNPOKN. 我叫CATOXNPOKN。 
+- 👋 Hi, I’m @CATOXNPOKN.私はCATOXNPOKNといいます。 Меня завут CATOXNPOKN. Мене звати CATOXNPOKN. 我叫CATOXNPOKN。 
 - 👀 I’m interested in CFD (Computational Fluid Dynamics) on OpenFOAM.
 - 🌱 I’m currently learning C++, Ruby,  Русский язык, Українська мова.
 - 💞️ I’m looking to collaborate on ...
